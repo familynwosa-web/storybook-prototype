@@ -3,3 +3,4 @@ google-genai
 pydantic
 reportlab
 pillow
+pillow>=10.0.0
